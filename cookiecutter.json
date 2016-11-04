@@ -1,7 +1,7 @@
 {
   "appname": "SQLDemoApp",
   "connection_string": "",
-  "namespace": "",
+  "namespace": "SalesLT",
   "table": "Customer",
   "_visual_studio": {
     "appname": { "label": "Application Name" },
