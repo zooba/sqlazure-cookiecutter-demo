@@ -1,0 +1,16 @@
+{
+  "appname": "SQLDemoApp",
+  "connection_string": "",
+  "namespace": "",
+  "table": "Customer",
+  "_visual_studio": {
+    "appname": { "label": "Application Name" },
+    "namespace": { "label": "Namespace" },
+    "table": { "label": "Table Name" },
+    "connection_string": {
+      "label": "Connection String",
+      "description": "The ODBC connection string to connect to your database",
+      "selector": "odbcConnection"
+    }
+  }
+}
